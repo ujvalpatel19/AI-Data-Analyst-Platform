@@ -6,7 +6,7 @@ load_dotenv()
 
 # Set Streamlit Page Config
 st.set_page_config(
-    page_title="AI Data Analyst",
+    page_title="AI Data Analyst Platform",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
