@@ -1,6 +1,6 @@
 import streamlit as st
 
-def render_header(title="AI Data Analyst", subtitle="Automated Data Analytics, Visualizations & Insights"):
+def render_header(title="AI Data Analyst Platform", subtitle="Automated Data Analytics, Visualizations & Insights"):
     """Renders a sleek top header banner."""
     st.markdown("""
         <style>

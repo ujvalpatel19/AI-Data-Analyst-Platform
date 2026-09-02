@@ -1,6 +1,6 @@
 {
-  "name": "AI Data Analyst",
-  "short_name": "AI Analyst",
+  "name": "AI Data Analyst Platform",
+  "short_name": "AI Analyst Platform",
   "description": "Automated Data Analytics, Visualizations & Insights App",
   "start_url": "/",
   "display": "standalone",
