@@ -2,6 +2,9 @@
 
 An intelligent **Streamlit-based data analytics platform** that transforms raw datasets into actionable insights through data cleaning, visualization, forecasting, AI-powered insights, and natural-language data interaction.
 
+🔗 Live App: (https://ai-data-analystplatform.streamlit.app/)
+
+
 ## ✨ Features
 
 * 📊 **Data Overview** — Dataset summary, statistics & data health score
